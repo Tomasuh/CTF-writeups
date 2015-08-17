@@ -1,5 +1,5 @@
 """
-The address only consisted of hex characters.
+The encrypted flag only consisted of hex characters.
 So by encrypting all possible characters we can
 save them into a dictionary with the original
 form as values, this way we can decrypt the given data.
